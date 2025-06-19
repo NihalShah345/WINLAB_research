@@ -1,0 +1,768 @@
+﻿Gain0
+
+log :info: Lock=True; SNR=12.70; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=12.74; FECFRAMEs=416; FER=1.4e-01; TS Packets=9163; PER=0.0e+00
+log :info: Lock=True; SNR=12.40; FECFRAMEs=640; FER=9.2e-02; TS Packets=14914; PER=0.0e+00
+log :info: Lock=True; SNR=12.79; FECFRAMEs=864; FER=6.8e-02; TS Packets=20664; PER=0.0e+00
+log :info: Lock=True; SNR=12.68; FECFRAMEs=1088; FER=5.4e-02; TS Packets=26414; PER=0.0e+00
+log :info: Lock=True; SNR=12.85; FECFRAMEs=1344; FER=4.4e-02; TS Packets=32985; PER=0.0e+00
+log :info: Lock=True; SNR=13.26; FECFRAMEs=1568; FER=3.8e-02; TS Packets=38736; PER=0.0e+00
+log :info: Lock=True; SNR=13.23; FECFRAMEs=1792; FER=3.3e-02; TS Packets=44486; PER=0.0e+00
+log :info: Lock=True; SNR=12.98; FECFRAMEs=2016; FER=2.9e-02; TS Packets=50236; PER=0.0e+00
+log :info: Lock=True; SNR=13.16; FECFRAMEs=2240; FER=2.6e-02; TS Packets=55986; PER=0.0e+00
+log :info: Lock=True; SNR=12.99; FECFRAMEs=2464; FER=2.4e-02; TS Packets=61736; PER=0.0e+00
+log :info: Lock=True; SNR=13.38; FECFRAMEs=2688; FER=2.2e-02; TS Packets=67486; PER=0.0e+00
+log :info: Lock=True; SNR=13.49; FECFRAMEs=2912; FER=2.0e-02; TS Packets=73236; PER=0.0e+00
+log :info: Lock=True; SNR=13.58; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78986; PER=0.0e+00
+log :info: Lock=True; SNR=13.64; FECFRAMEs=3360; FER=1.8e-02; TS Packets=84737; PER=0.0e+00
+log :info: Lock=True; SNR=13.57; FECFRAMEs=3584; FER=1.6e-02; TS Packets=90487; PER=0.0e+00
+log :info: Lock=True; SNR=13.74; FECFRAMEs=3808; FER=1.5e-02; TS Packets=96237; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=4032; FER=1.5e-02; TS Packets=101987; PER=0.0e+00
+log :info: Lock=True; SNR=13.36; FECFRAMEs=4256; FER=1.4e-02; TS Packets=107737; PER=0.0e+00
+log :info: Lock=True; SNR=13.42; FECFRAMEs=4480; FER=1.3e-02; TS Packets=113487; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119237; PER=0.0e+00
+log :info: Lock=True; SNR=13.40; FECFRAMEs=4928; FER=1.2e-02; TS Packets=124987; PER=0.0e+00
+log :info: Lock=True; SNR=13.36; FECFRAMEs=5152; FER=1.1e-02; TS Packets=130738; PER=0.0e+00
+log :info: Lock=True; SNR=13.46; FECFRAMEs=5376; FER=1.1e-02; TS Packets=136488; PER=0.0e+00
+log :info: Lock=True; SNR=13.76; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142238; PER=0.0e+00
+log :info: Lock=True; SNR=13.23; FECFRAMEs=5824; FER=1.0e-02; TS Packets=147988; PER=0.0e+00
+log :info: Lock=True; SNR=13.20; FECFRAMEs=6080; FER=9.7e-03; TS Packets=154560; PER=0.0e+00
+log :info: Lock=True; SNR=12.93; FECFRAMEs=6304; FER=9.4e-03; TS Packets=160310; PER=0.0e+00
+log :info: Lock=True; SNR=12.82; FECFRAMEs=6528; FER=9.0e-03; TS Packets=166060; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=6752; FER=8.7e-03; TS Packets=171810; PER=0.0e+00
+log :info: Lock=True; SNR=12.82; FECFRAMEs=6976; FER=8.5e-03; TS Packets=177560; PER=0.0e+00
+log :info: Lock=True; SNR=12.83; FECFRAMEs=7200; FER=8.2e-03; TS Packets=183310; PER=0.0e+00
+log :info: Lock=True; SNR=12.85; FECFRAMEs=7424; FER=7.9e-03; TS Packets=189060; PER=0.0e+00
+log :info: Lock=True; SNR=13.12; FECFRAMEs=7648; FER=7.7e-03; TS Packets=194810; PER=0.0e+00
+log :info: Lock=True; SNR=12.94; FECFRAMEs=7872; FER=7.5e-03; TS Packets=200561; PER=0.0e+00
+log :info: Lock=True; SNR=12.71; FECFRAMEs=8096; FER=7.3e-03; TS Packets=206311; PER=0.0e+00
+log :info: Lock=True; SNR=13.39; FECFRAMEs=8320; FER=7.1e-03; TS Packets=212061; PER=0.0e+00
+log :info: Lock=True; SNR=13.56; FECFRAMEs=8544; FER=6.9e-03; TS Packets=217811; PER=0.0e+00
+log :info: Lock=True; SNR=13.55; FECFRAMEs=8768; FER=6.7e-03; TS Packets=223561; PER=0.0e+00
+log :info: Lock=True; SNR=13.69; FECFRAMEs=8992; FER=6.6e-03; TS Packets=229311; PER=0.0e+00
+log :info: Lock=True; SNR=13.59; FECFRAMEs=9216; FER=6.4e-03; TS Packets=235061; PER=0.0e+00
+log :info: Lock=True; SNR=13.24; FECFRAMEs=9440; FER=6.3e-03; TS Packets=240811; PER=0.0e+00
+log :info: Lock=True; SNR=12.91; FECFRAMEs=9664; FER=6.1e-03; TS Packets=246562; PER=0.0e+00
+log :info: Lock=True; SNR=13.06; FECFRAMEs=9888; FER=6.0e-03; TS Packets=252312; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
+
+
+
+
+Gain 0.1
+
+
+log :info: Starting DVB-S2 Rx
+log :info: Lock=False
+log :info: Lock=True; SNR=12.69; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=416; FER=1.4e-01; TS Packets=9164; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=640; FER=9.2e-02; TS Packets=14914; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=864; FER=6.8e-02; TS Packets=20664; PER=0.0e+00
+log :info: Lock=True; SNR=12.47; FECFRAMEs=1120; FER=5.3e-02; TS Packets=27235; PER=0.0e+00
+log :info: Lock=True; SNR=12.35; FECFRAMEs=1344; FER=4.4e-02; TS Packets=32986; PER=0.0e+00
+log :info: Lock=True; SNR=12.26; FECFRAMEs=1568; FER=3.8e-02; TS Packets=38736; PER=0.0e+00
+log :info: Lock=True; SNR=12.24; FECFRAMEs=1792; FER=3.3e-02; TS Packets=44486; PER=0.0e+00
+log :info: Lock=True; SNR=11.86; FECFRAMEs=2016; FER=2.9e-02; TS Packets=50236; PER=0.0e+00
+log :info: Lock=True; SNR=11.95; FECFRAMEs=2240; FER=2.6e-02; TS Packets=55986; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=2464; FER=2.4e-02; TS Packets=61736; PER=0.0e+00
+log :info: Lock=True; SNR=12.56; FECFRAMEs=2688; FER=2.2e-02; TS Packets=67486; PER=0.0e+00
+log :info: Lock=True; SNR=12.80; FECFRAMEs=2912; FER=2.0e-02; TS Packets=73236; PER=0.0e+00
+log :info: Lock=True; SNR=12.59; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78987; PER=0.0e+00
+log :info: Lock=True; SNR=12.56; FECFRAMEs=3360; FER=1.8e-02; TS Packets=84737; PER=0.0e+00
+log :info: Lock=True; SNR=12.42; FECFRAMEs=3584; FER=1.6e-02; TS Packets=90487; PER=0.0e+00
+log :info: Lock=True; SNR=12.55; FECFRAMEs=3808; FER=1.5e-02; TS Packets=96237; PER=0.0e+00
+log :info: Lock=True; SNR=12.71; FECFRAMEs=4032; FER=1.5e-02; TS Packets=101987; PER=0.0e+00
+log :info: Lock=True; SNR=12.43; FECFRAMEs=4256; FER=1.4e-02; TS Packets=107737; PER=0.0e+00
+log :info: Lock=True; SNR=12.33; FECFRAMEs=4480; FER=1.3e-02; TS Packets=113487; PER=0.0e+00
+log :info: Lock=True; SNR=12.50; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119237; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=4928; FER=1.2e-02; TS Packets=124988; PER=0.0e+00
+usrp_source :error: In the last 24395 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.34; FECFRAMEs=5152; FER=1.2e-02; TS Packets=130686; PER=0.0e+00
+log :info: Lock=True; SNR=12.16; FECFRAMEs=5376; FER=1.1e-02; TS Packets=136436; PER=0.0e+00
+log :info: Lock=True; SNR=11.83; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142186; PER=0.0e+00
+log :info: Lock=True; SNR=11.87; FECFRAMEs=5824; FER=1.0e-02; TS Packets=147936; PER=0.0e+00
+log :info: Lock=True; SNR=11.77; FECFRAMEs=6048; FER=1.0e-02; TS Packets=153686; PER=0.0e+00
+log :info: Lock=True; SNR=12.60; FECFRAMEs=6272; FER=9.7e-03; TS Packets=159436; PER=0.0e+00
+log :info: Lock=True; SNR=12.19; FECFRAMEs=6528; FER=9.3e-03; TS Packets=166008; PER=0.0e+00
+log :info: Lock=True; SNR=12.13; FECFRAMEs=6752; FER=9.0e-03; TS Packets=171758; PER=0.0e+00
+log :info: Lock=True; SNR=12.10; FECFRAMEs=6976; FER=8.7e-03; TS Packets=177508; PER=0.0e+00
+log :info: Lock=True; SNR=12.05; FECFRAMEs=7200; FER=8.5e-03; TS Packets=183258; PER=0.0e+00
+log :info: Lock=True; SNR=11.98; FECFRAMEs=7424; FER=8.2e-03; TS Packets=189008; PER=0.0e+00
+log :info: Lock=True; SNR=12.15; FECFRAMEs=7648; FER=8.0e-03; TS Packets=194759; PER=0.0e+00
+log :info: Lock=True; SNR=12.36; FECFRAMEs=7872; FER=7.7e-03; TS Packets=200509; PER=0.0e+00
+log :info: Lock=True; SNR=11.84; FECFRAMEs=8096; FER=7.5e-03; TS Packets=206259; PER=0.0e+00
+log :info: Lock=True; SNR=12.03; FECFRAMEs=8320; FER=7.3e-03; TS Packets=212009; PER=0.0e+00
+log :info: Lock=True; SNR=11.57; FECFRAMEs=8544; FER=7.1e-03; TS Packets=217759; PER=0.0e+00
+log :info: Lock=True; SNR=11.52; FECFRAMEs=8768; FER=7.0e-03; TS Packets=223509; PER=0.0e+00
+log :info: Lock=True; SNR=11.93; FECFRAMEs=8992; FER=6.8e-03; TS Packets=229259; PER=0.0e+00
+log :info: Lock=True; SNR=12.09; FECFRAMEs=9216; FER=6.6e-03; TS Packets=235009; PER=0.0e+00
+log :info: Lock=True; SNR=11.67; FECFRAMEs=9440; FER=6.5e-03; TS Packets=240760; PER=0.0e+00
+log :info: Lock=True; SNR=11.50; FECFRAMEs=9664; FER=6.3e-03; TS Packets=246510; PER=0.0e+00
+log :info: Lock=True; SNR=11.30; FECFRAMEs=9888; FER=6.2e-03; TS Packets=252260; PER=0.0e+00
+log :info: Lock=True; SNR=11.72; FECFRAMEs=10112; FER=6.0e-03; TS Packets=258010; PER=0.0e+00
+log :info: Lock=True; SNR=11.74; FECFRAMEs=10336; FER=5.9e-03; TS Packets=263760; PER=0.0e+00
+log :info: Lock=True; SNR=11.83; FECFRAMEs=10560; FER=5.8e-03; TS Packets=269510; PER=0.0e+00
+log :info: Lock=True; SNR=11.85; FECFRAMEs=10784; FER=5.7e-03; TS Packets=275260; PER=0.0e+00
+log :info: Lock=True; SNR=12.33; FECFRAMEs=11040; FER=5.5e-03; TS Packets=281832; PER=0.0e+00
+log :info: Lock=True; SNR=12.31; FECFRAMEs=11264; FER=5.4e-03; TS Packets=287582; PER=0.0e+00
+log :info: Lock=True; SNR=11.85; FECFRAMEs=11488; FER=5.3e-03; TS Packets=293332; PER=0.0e+00
+log :info: Lock=True; SNR=12.08; FECFRAMEs=11712; FER=5.2e-03; TS Packets=299082; PER=0.0e+00
+log :info: Lock=True; SNR=11.68; FECFRAMEs=11936; FER=5.1e-03; TS Packets=304832; PER=0.0e+00
+log :info: Lock=True; SNR=11.63; FECFRAMEs=12160; FER=5.0e-03; TS Packets=310583; PER=0.0e+00
+log :info: Lock=True; SNR=11.60; FECFRAMEs=12384; FER=4.9e-03; TS Packets=316333; PER=0.0e+00
+log :info: Lock=True; SNR=11.74; FECFRAMEs=12608; FER=4.8e-03; TS Packets=322083; PER=0.0e+00
+log :info: Lock=True; SNR=11.41; FECFRAMEs=12832; FER=4.8e-03; TS Packets=327833; PER=0.0e+00
+log :info: Lock=True; SNR=11.68; FECFRAMEs=13056; FER=4.7e-03; TS Packets=333583; PER=0.0e+00
+log :info: Lock=True; SNR=11.52; FECFRAMEs=13280; FER=4.6e-03; TS Packets=339333; PER=0.0e+00
+log :info: Lock=True; SNR=11.62; FECFRAMEs=13504; FER=4.5e-03; TS Packets=345083; PER=0.0e+00
+log :info: Lock=True; SNR=11.60; FECFRAMEs=13728; FER=4.4e-03; TS Packets=350833; PER=0.0e+00
+log :info: Lock=True; SNR=11.81; FECFRAMEs=13952; FER=4.4e-03; TS Packets=356584; PER=0.0e+00
+log :info: Lock=True; SNR=11.62; FECFRAMEs=14176; FER=4.3e-03; TS Packets=362334; PER=0.0e+00
+log :info: Lock=True; SNR=12.04; FECFRAMEs=14400; FER=4.2e-03; TS Packets=368084; PER=0.0e+00
+log :info: Lock=True; SNR=12.42; FECFRAMEs=14624; FER=4.2e-03; TS Packets=373834; PER=0.0e+00
+log :info: Lock=True; SNR=12.25; FECFRAMEs=14848; FER=4.1e-03; TS Packets=379584; PER=0.0e+00
+log :info: Lock=True; SNR=12.16; FECFRAMEs=15072; FER=4.0e-03; TS Packets=385334; PER=0.0e+00
+log :info: Lock=True; SNR=12.03; FECFRAMEs=15296; FER=4.0e-03; TS Packets=391084; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=15520; FER=3.9e-03; TS Packets=396834; PER=0.0e+00
+log :info: Lock=True; SNR=11.41; FECFRAMEs=15746; FER=3.9e-03; TS Packets=402585; PER=0.0e+00
+log :info: Lock=True; SNR=12.08; FECFRAMEs=16000; FER=3.8e-03; TS Packets=409156; PER=0.0e+00
+log :info: Lock=True; SNR=12.06; FECFRAMEs=16224; FER=3.8e-03; TS Packets=414906; PER=0.0e+00
+log :info: Lock=True; SNR=12.31; FECFRAMEs=16448; FER=3.7e-03; TS Packets=420656; PER=0.0e+00
+log :info: Lock=True; SNR=12.48; FECFRAMEs=16672; FER=3.7e-03; TS Packets=426407; PER=0.0e+00
+log :info: Lock=True; SNR=11.71; FECFRAMEs=16896; FER=3.6e-03; TS Packets=432157; PER=0.0e+00
+log :info: Lock=True; SNR=11.96; FECFRAMEs=17120; FER=3.6e-03; TS Packets=437907; PER=0.0e+00
+log :info: Lock=True; SNR=12.12; FECFRAMEs=17344; FER=3.5e-03; TS Packets=443657; PER=0.0e+00
+log :info: Lock=True; SNR=12.26; FECFRAMEs=17568; FER=3.5e-03; TS Packets=449407; PER=0.0e+00
+log :info: Lock=True; SNR=11.21; FECFRAMEs=17792; FER=3.4e-03; TS Packets=455157; PER=0.0e+00
+usrp_source :error: In the last 57397 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=11.78; FECFRAMEs=18016; FER=3.5e-03; TS Packets=460855; PER=0.0e+00
+log :info: Lock=True; SNR=11.54; FECFRAMEs=18240; FER=3.5e-03; TS Packets=466605; PER=0.0e+00
+log :info: Lock=True; SNR=12.19; FECFRAMEs=18464; FER=3.4e-03; TS Packets=472355; PER=0.0e+00
+log :info: Lock=True; SNR=12.52; FECFRAMEs=18688; FER=3.4e-03; TS Packets=478105; PER=0.0e+00
+log :info: Lock=True; SNR=11.74; FECFRAMEs=18912; FER=3.3e-03; TS Packets=483855; PER=0.0e+00
+log :info: Lock=True; SNR=12.03; FECFRAMEs=19136; FER=3.3e-03; TS Packets=489605; PER=0.0e+00
+log :info: Lock=True; SNR=12.37; FECFRAMEs=19360; FER=3.3e-03; TS Packets=495355; PER=0.0e+00
+log :info: Lock=True; SNR=12.51; FECFRAMEs=19584; FER=3.2e-03; TS Packets=501106; PER=0.0e+00
+log :info: Lock=True; SNR=12.48; FECFRAMEs=19808; FER=3.2e-03; TS Packets=506856; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=20032; FER=3.1e-03; TS Packets=512606; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=20256; FER=3.1e-03; TS Packets=518356; PER=0.0e+00
+log :info: Lock=True; SNR=12.82; FECFRAMEs=20480; FER=3.1e-03; TS Packets=524106; PER=0.0e+00
+log :info: Lock=True; SNR=12.41; FECFRAMEs=20704; FER=3.0e-03; TS Packets=529856; PER=0.0e+00
+log :info: Lock=True; SNR=12.55; FECFRAMEs=20960; FER=3.0e-03; TS Packets=536428; PER=0.0e+00
+log :info: Lock=True; SNR=12.49; FECFRAMEs=21184; FER=3.0e-03; TS Packets=542178; PER=0.0e+00
+log :info: Lock=True; SNR=12.26; FECFRAMEs=21408; FER=2.9e-03; TS Packets=547928; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=21632; FER=2.9e-03; TS Packets=553678; PER=0.0e+00
+log :info: Lock=True; SNR=12.40; FECFRAMEs=21856; FER=2.9e-03; TS Packets=559428; PER=0.0e+00
+log :info: Lock=True; SNR=13.08; FECFRAMEs=22080; FER=2.9e-03; TS Packets=565178; PER=0.0e+00
+log :info: Lock=True; SNR=12.98; FECFRAMEs=22304; FER=2.8e-03; TS Packets=570929; PER=0.0e+00
+log :info: Lock=True; SNR=12.61; FECFRAMEs=22528; FER=2.8e-03; TS Packets=576679; PER=0.0e+00
+log :info: Lock=True; SNR=13.33; FECFRAMEs=22752; FER=2.8e-03; TS Packets=582429; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
+
+
+
+
+
+Gain 0.2
+log :info: Starting DVB-S2 Rx
+log :info: Lock=False
+log :info: Lock=True; SNR=13.63; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=14.91; FECFRAMEs=416; FER=1.4e-01; TS Packets=9163; PER=0.0e+00
+log :info: Lock=True; SNR=14.57; FECFRAMEs=640; FER=9.2e-02; TS Packets=14913; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=864; FER=6.8e-02; TS Packets=20664; PER=0.0e+00
+log :info: Lock=True; SNR=13.80; FECFRAMEs=1120; FER=5.3e-02; TS Packets=27235; PER=0.0e+00
+log :info: Lock=True; SNR=13.94; FECFRAMEs=1344; FER=4.4e-02; TS Packets=32985; PER=0.0e+00
+log :info: Lock=True; SNR=14.05; FECFRAMEs=1568; FER=3.8e-02; TS Packets=38735; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=1792; FER=3.3e-02; TS Packets=44486; PER=0.0e+00
+log :info: Lock=True; SNR=14.32; FECFRAMEs=2016; FER=2.9e-02; TS Packets=50236; PER=0.0e+00
+log :info: Lock=True; SNR=13.39; FECFRAMEs=2240; FER=2.6e-02; TS Packets=55986; PER=0.0e+00
+log :info: Lock=True; SNR=13.73; FECFRAMEs=2464; FER=2.4e-02; TS Packets=61736; PER=0.0e+00
+log :info: Lock=True; SNR=12.94; FECFRAMEs=2688; FER=2.2e-02; TS Packets=67486; PER=0.0e+00
+log :info: Lock=True; SNR=13.27; FECFRAMEs=2912; FER=2.0e-02; TS Packets=73236; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78986; PER=0.0e+00
+log :info: Lock=True; SNR=13.59; FECFRAMEs=3360; FER=1.8e-02; TS Packets=84736; PER=0.0e+00
+log :info: Lock=True; SNR=12.24; FECFRAMEs=3584; FER=1.6e-02; TS Packets=90487; PER=0.0e+00
+log :info: Lock=True; SNR=12.46; FECFRAMEs=3808; FER=1.5e-02; TS Packets=96237; PER=0.0e+00
+log :info: Lock=True; SNR=13.78; FECFRAMEs=4032; FER=1.5e-02; TS Packets=101987; PER=0.0e+00
+log :info: Lock=True; SNR=14.04; FECFRAMEs=4256; FER=1.4e-02; TS Packets=107737; PER=0.0e+00
+log :info: Lock=True; SNR=14.17; FECFRAMEs=4480; FER=1.3e-02; TS Packets=113487; PER=0.0e+00
+log :info: Lock=True; SNR=14.38; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119237; PER=0.0e+00
+log :info: Lock=True; SNR=13.77; FECFRAMEs=4928; FER=1.2e-02; TS Packets=124987; PER=0.0e+00
+log :info: Lock=True; SNR=13.79; FECFRAMEs=5152; FER=1.1e-02; TS Packets=130737; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=5376; FER=1.1e-02; TS Packets=136488; PER=0.0e+00
+log :info: Lock=True; SNR=13.72; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142238; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=5843; FER=1.0e-02; TS Packets=148417; PER=0.0e+00
+log :info: Lock=True; SNR=12.37; FECFRAMEs=6080; FER=9.7e-03; TS Packets=154559; PER=0.0e+00
+log :info: Lock=True; SNR=13.00; FECFRAMEs=6304; FER=9.4e-03; TS Packets=160310; PER=0.0e+00
+log :info: Lock=True; SNR=12.06; FECFRAMEs=6528; FER=9.0e-03; TS Packets=166060; PER=0.0e+00
+log :info: Lock=True; SNR=12.58; FECFRAMEs=6752; FER=8.7e-03; TS Packets=171810; PER=0.0e+00
+log :info: Lock=True; SNR=12.71; FECFRAMEs=6976; FER=8.5e-03; TS Packets=177560; PER=0.0e+00
+log :info: Lock=True; SNR=12.23; FECFRAMEs=7200; FER=8.2e-03; TS Packets=183310; PER=0.0e+00
+log :info: Lock=True; SNR=13.15; FECFRAMEs=7424; FER=7.9e-03; TS Packets=189060; PER=0.0e+00
+log :info: Lock=True; SNR=13.74; FECFRAMEs=7648; FER=7.7e-03; TS Packets=194810; PER=0.0e+00
+log :info: Lock=True; SNR=12.36; FECFRAMEs=7872; FER=7.5e-03; TS Packets=200560; PER=0.0e+00
+log :info: Lock=True; SNR=12.77; FECFRAMEs=8096; FER=7.3e-03; TS Packets=206311; PER=0.0e+00
+log :info: Lock=True; SNR=13.20; FECFRAMEs=8320; FER=7.1e-03; TS Packets=212061; PER=0.0e+00
+log :info: Lock=True; SNR=13.64; FECFRAMEs=8544; FER=6.9e-03; TS Packets=217811; PER=0.0e+00
+log :info: Lock=True; SNR=13.04; FECFRAMEs=8768; FER=6.7e-03; TS Packets=223561; PER=0.0e+00
+log :info: Lock=True; SNR=12.47; FECFRAMEs=8992; FER=6.6e-03; TS Packets=229311; PER=0.0e+00
+log :info: Lock=True; SNR=12.59; FECFRAMEs=9216; FER=6.4e-03; TS Packets=235061; PER=0.0e+00
+log :info: Lock=True; SNR=13.01; FECFRAMEs=9440; FER=6.3e-03; TS Packets=240811; PER=0.0e+00
+log :info: Lock=True; SNR=13.25; FECFRAMEs=9664; FER=6.1e-03; TS Packets=246561; PER=0.0e+00
+log :info: Lock=True; SNR=12.99; FECFRAMEs=9888; FER=6.0e-03; TS Packets=252312; PER=0.0e+00
+log :info: Lock=True; SNR=12.94; FECFRAMEs=10112; FER=5.8e-03; TS Packets=258062; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=10336; FER=5.7e-03; TS Packets=263812; PER=0.0e+00
+log :info: Lock=True; SNR=12.89; FECFRAMEs=10592; FER=5.6e-03; TS Packets=270383; PER=0.0e+00
+log :info: Lock=True; SNR=12.98; FECFRAMEs=10816; FER=5.5e-03; TS Packets=276134; PER=0.0e+00
+log :info: Lock=True; SNR=13.01; FECFRAMEs=11040; FER=5.3e-03; TS Packets=281884; PER=0.0e+00
+log :info: Lock=True; SNR=12.89; FECFRAMEs=11264; FER=5.2e-03; TS Packets=287634; PER=0.0e+00
+log :info: Lock=True; SNR=12.96; FECFRAMEs=11488; FER=5.1e-03; TS Packets=293384; PER=0.0e+00
+log :info: Lock=True; SNR=12.88; FECFRAMEs=11712; FER=5.0e-03; TS Packets=299134; PER=0.0e+00
+usrp_source :error: In the last 55363 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.17; FECFRAMEs=11936; FER=5.1e-03; TS Packets=304832; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=12160; FER=5.0e-03; TS Packets=310582; PER=0.0e+00
+log :info: Lock=True; SNR=12.97; FECFRAMEs=12384; FER=4.9e-03; TS Packets=316332; PER=0.0e+00
+log :info: Lock=True; SNR=12.77; FECFRAMEs=12608; FER=4.8e-03; TS Packets=322082; PER=0.0e+00
+log :info: Lock=True; SNR=12.81; FECFRAMEs=12832; FER=4.8e-03; TS Packets=327832; PER=0.0e+00
+log :info: Lock=True; SNR=13.02; FECFRAMEs=13056; FER=4.7e-03; TS Packets=333582; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=13280; FER=4.6e-03; TS Packets=339332; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=13504; FER=4.5e-03; TS Packets=345082; PER=0.0e+00
+log :info: Lock=True; SNR=13.06; FECFRAMEs=13728; FER=4.4e-03; TS Packets=350833; PER=0.0e+00
+log :info: Lock=True; SNR=12.78; FECFRAMEs=13952; FER=4.4e-03; TS Packets=356583; PER=0.0e+00
+log :info: Lock=True; SNR=13.00; FECFRAMEs=14176; FER=4.3e-03; TS Packets=362333; PER=0.0e+00
+log :info: Lock=True; SNR=12.49; FECFRAMEs=14400; FER=4.2e-03; TS Packets=368083; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=14624; FER=4.2e-03; TS Packets=373833; PER=0.0e+00
+log :info: Lock=True; SNR=11.88; FECFRAMEs=14848; FER=4.1e-03; TS Packets=379583; PER=0.0e+00
+log :info: Lock=True; SNR=11.92; FECFRAMEs=15072; FER=4.0e-03; TS Packets=385333; PER=0.0e+00
+log :info: Lock=True; SNR=11.75; FECFRAMEs=15296; FER=4.0e-03; TS Packets=391083; PER=0.0e+00
+log :info: Lock=True; SNR=11.87; FECFRAMEs=15520; FER=3.9e-03; TS Packets=396834; PER=0.0e+00
+log :info: Lock=True; SNR=11.95; FECFRAMEs=15776; FER=3.9e-03; TS Packets=403354; PER=0.0e+00
+log :info: Lock=True; SNR=11.97; FECFRAMEs=16000; FER=3.8e-03; TS Packets=409155; PER=0.0e+00
+log :info: Lock=True; SNR=12.17; FECFRAMEs=16224; FER=3.8e-03; TS Packets=414905; PER=0.0e+00
+log :info: Lock=True; SNR=12.15; FECFRAMEs=16448; FER=3.7e-03; TS Packets=420656; PER=0.0e+00
+log :info: Lock=True; SNR=12.08; FECFRAMEs=16672; FER=3.7e-03; TS Packets=426406; PER=0.0e+00
+log :info: Lock=True; SNR=12.20; FECFRAMEs=16896; FER=3.6e-03; TS Packets=432156; PER=0.0e+00
+log :info: Lock=True; SNR=12.26; FECFRAMEs=17120; FER=3.6e-03; TS Packets=437906; PER=0.0e+00
+log :info: Lock=True; SNR=11.89; FECFRAMEs=17344; FER=3.5e-03; TS Packets=443656; PER=0.0e+00
+log :info: Lock=True; SNR=12.41; FECFRAMEs=17568; FER=3.5e-03; TS Packets=449406; PER=0.0e+00
+usrp_source :error: In the last 26292 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.43; FECFRAMEs=17792; FER=3.5e-03; TS Packets=455104; PER=0.0e+00
+log :info: Lock=True; SNR=12.24; FECFRAMEs=18016; FER=3.5e-03; TS Packets=460854; PER=0.0e+00
+log :info: Lock=True; SNR=12.29; FECFRAMEs=18240; FER=3.5e-03; TS Packets=466604; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
+
+
+Gain 0.3
+
+
+log :info: Starting DVB-S2 Rx
+log :info: Lock=False
+log :info: Lock=True; SNR=13.37; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=13.54; FECFRAMEs=416; FER=1.4e-01; TS Packets=9163; PER=0.0e+00
+log :info: Lock=True; SNR=13.25; FECFRAMEs=640; FER=9.2e-02; TS Packets=14913; PER=0.0e+00
+log :info: Lock=True; SNR=13.53; FECFRAMEs=864; FER=6.8e-02; TS Packets=20663; PER=0.0e+00
+log :info: Lock=True; SNR=12.60; FECFRAMEs=1120; FER=5.3e-02; TS Packets=27235; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=1344; FER=4.4e-02; TS Packets=32985; PER=0.0e+00
+log :info: Lock=True; SNR=12.18; FECFRAMEs=1568; FER=3.8e-02; TS Packets=38735; PER=0.0e+00
+log :info: Lock=True; SNR=12.51; FECFRAMEs=1792; FER=3.3e-02; TS Packets=44485; PER=0.0e+00
+log :info: Lock=True; SNR=13.17; FECFRAMEs=2016; FER=2.9e-02; TS Packets=50235; PER=0.0e+00
+log :info: Lock=True; SNR=12.65; FECFRAMEs=2240; FER=2.6e-02; TS Packets=55985; PER=0.0e+00
+log :info: Lock=True; SNR=12.45; FECFRAMEs=2464; FER=2.4e-02; TS Packets=61735; PER=0.0e+00
+log :info: Lock=True; SNR=12.16; FECFRAMEs=2688; FER=2.2e-02; TS Packets=67486; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=2912; FER=2.0e-02; TS Packets=73236; PER=0.0e+00
+log :info: Lock=True; SNR=11.72; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78986; PER=0.0e+00
+log :info: Lock=True; SNR=11.15; FECFRAMEs=3360; FER=1.8e-02; TS Packets=84736; PER=0.0e+00
+log :info: Lock=True; SNR=11.49; FECFRAMEs=3584; FER=1.6e-02; TS Packets=90486; PER=0.0e+00
+log :info: Lock=True; SNR=10.97; FECFRAMEs=3808; FER=1.5e-02; TS Packets=96236; PER=0.0e+00
+log :info: Lock=True; SNR=11.73; FECFRAMEs=4032; FER=1.5e-02; TS Packets=101986; PER=0.0e+00
+log :info: Lock=True; SNR=11.71; FECFRAMEs=4256; FER=1.4e-02; TS Packets=107736; PER=0.0e+00
+log :info: Lock=True; SNR=11.42; FECFRAMEs=4480; FER=1.3e-02; TS Packets=113487; PER=0.0e+00
+log :info: Lock=True; SNR=11.55; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119237; PER=0.0e+00
+log :info: Lock=True; SNR=11.61; FECFRAMEs=4928; FER=1.2e-02; TS Packets=124987; PER=0.0e+00
+log :info: Lock=True; SNR=12.46; FECFRAMEs=5152; FER=1.1e-02; TS Packets=130737; PER=0.0e+00
+log :info: Lock=True; SNR=11.70; FECFRAMEs=5376; FER=1.1e-02; TS Packets=136487; PER=0.0e+00
+log :info: Lock=True; SNR=12.05; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142237; PER=0.0e+00
+log :info: Lock=True; SNR=12.38; FECFRAMEs=5824; FER=1.0e-02; TS Packets=147987; PER=0.0e+00
+log :info: Lock=True; SNR=12.03; FECFRAMEs=6080; FER=9.7e-03; TS Packets=154559; PER=0.0e+00
+log :info: Lock=True; SNR=12.28; FECFRAMEs=6304; FER=9.4e-03; TS Packets=160309; PER=0.0e+00
+log :info: Lock=True; SNR=12.28; FECFRAMEs=6528; FER=9.0e-03; TS Packets=166059; PER=0.0e+00
+log :info: Lock=True; SNR=11.86; FECFRAMEs=6752; FER=8.7e-03; TS Packets=171809; PER=0.0e+00
+log :info: Lock=True; SNR=11.52; FECFRAMEs=6976; FER=8.5e-03; TS Packets=177559; PER=0.0e+00
+log :info: Lock=True; SNR=11.78; FECFRAMEs=7200; FER=8.2e-03; TS Packets=183310; PER=0.0e+00
+log :info: Lock=True; SNR=11.23; FECFRAMEs=7424; FER=7.9e-03; TS Packets=189060; PER=0.0e+00
+log :info: Lock=True; SNR=11.41; FECFRAMEs=7648; FER=7.7e-03; TS Packets=194810; PER=0.0e+00
+log :info: Lock=True; SNR=11.92; FECFRAMEs=7872; FER=7.5e-03; TS Packets=200560; PER=0.0e+00
+log :info: Lock=True; SNR=11.94; FECFRAMEs=8096; FER=7.3e-03; TS Packets=206310; PER=0.0e+00
+log :info: Lock=True; SNR=11.87; FECFRAMEs=8320; FER=7.1e-03; TS Packets=212060; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=8544; FER=6.9e-03; TS Packets=217810; PER=0.0e+00
+log :info: Lock=True; SNR=12.05; FECFRAMEs=8768; FER=6.7e-03; TS Packets=223560; PER=0.0e+00
+log :info: Lock=True; SNR=11.35; FECFRAMEs=8992; FER=6.6e-03; TS Packets=229311; PER=0.0e+00
+log :info: Lock=True; SNR=12.20; FECFRAMEs=9216; FER=6.4e-03; TS Packets=235061; PER=0.0e+00
+log :info: Lock=True; SNR=11.90; FECFRAMEs=9440; FER=6.3e-03; TS Packets=240811; PER=0.0e+00
+log :info: Lock=True; SNR=11.35; FECFRAMEs=9664; FER=6.1e-03; TS Packets=246561; PER=0.0e+00
+log :info: Lock=True; SNR=11.58; FECFRAMEs=9888; FER=6.0e-03; TS Packets=252311; PER=0.0e+00
+log :info: Lock=True; SNR=11.78; FECFRAMEs=10112; FER=5.8e-03; TS Packets=258061; PER=0.0e+00
+log :info: Lock=True; SNR=11.27; FECFRAMEs=10336; FER=5.7e-03; TS Packets=263811; PER=0.0e+00
+log :info: Lock=True; SNR=11.31; FECFRAMEs=10560; FER=5.6e-03; TS Packets=269561; PER=0.0e+00
+log :info: Lock=True; SNR=11.14; FECFRAMEs=10816; FER=5.5e-03; TS Packets=276133; PER=0.0e+00
+usrp_source :error: In the last 50682 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=11.45; FECFRAMEs=11040; FER=5.4e-03; TS Packets=281857; PER=0.0e+00
+log :info: Lock=True; SNR=11.13; FECFRAMEs=11264; FER=5.3e-03; TS Packets=287607; PER=0.0e+00
+log :info: Lock=True; SNR=11.34; FECFRAMEs=11488; FER=5.2e-03; TS Packets=293357; PER=0.0e+00
+log :info: Lock=True; SNR=11.22; FECFRAMEs=11712; FER=5.1e-03; TS Packets=299107; PER=0.0e+00
+log :info: Lock=True; SNR=11.35; FECFRAMEs=11936; FER=5.0e-03; TS Packets=304857; PER=0.0e+00
+usrp_source :error: In the last 5514 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=10.98; FECFRAMEs=12160; FER=4.9e-03; TS Packets=310607; PER=0.0e+00
+log :info: Lock=True; SNR=10.97; FECFRAMEs=12384; FER=4.9e-03; TS Packets=316331; PER=0.0e+00
+log :info: Lock=True; SNR=11.04; FECFRAMEs=12608; FER=4.8e-03; TS Packets=322081; PER=0.0e+00
+log :info: Lock=True; SNR=11.47; FECFRAMEs=12832; FER=4.8e-03; TS Packets=327831; PER=0.0e+00
+log :info: Lock=True; SNR=11.12; FECFRAMEs=13056; FER=4.7e-03; TS Packets=333581; PER=0.0e+00
+log :info: Lock=True; SNR=11.24; FECFRAMEs=13280; FER=4.6e-03; TS Packets=339331; PER=0.0e+00
+log :info: Lock=True; SNR=11.63; FECFRAMEs=13504; FER=4.5e-03; TS Packets=345081; PER=0.0e+00
+log :info: Lock=True; SNR=11.51; FECFRAMEs=13728; FER=4.4e-03; TS Packets=350831; PER=0.0e+00
+log :info: Lock=True; SNR=11.39; FECFRAMEs=13952; FER=4.4e-03; TS Packets=356581; PER=0.0e+00
+log :info: Lock=True; SNR=11.45; FECFRAMEs=14176; FER=4.3e-03; TS Packets=362332; PER=0.0e+00
+log :info: Lock=True; SNR=11.56; FECFRAMEs=14400; FER=4.2e-03; TS Packets=368082; PER=0.0e+00
+log :info: Lock=True; SNR=11.44; FECFRAMEs=14624; FER=4.2e-03; TS Packets=373832; PER=0.0e+00
+log :info: Lock=True; SNR=11.61; FECFRAMEs=14848; FER=4.1e-03; TS Packets=379582; PER=0.0e+00
+log :info: Lock=True; SNR=11.08; FECFRAMEs=15072; FER=4.0e-03; TS Packets=385332; PER=0.0e+00
+log :info: Lock=True; SNR=11.26; FECFRAMEs=15296; FER=4.0e-03; TS Packets=391082; PER=0.0e+00
+log :info: Lock=True; SNR=10.87; FECFRAMEs=15520; FER=3.9e-03; TS Packets=396832; PER=0.0e+00
+log :info: Lock=True; SNR=11.60; FECFRAMEs=15744; FER=3.9e-03; TS Packets=402583; PER=0.0e+00
+log :info: Lock=True; SNR=11.42; FECFRAMEs=15968; FER=3.8e-03; TS Packets=408333; PER=0.0e+00
+log :info: Lock=True; SNR=10.97; FECFRAMEs=16224; FER=3.8e-03; TS Packets=414904; PER=0.0e+00
+log :info: Lock=True; SNR=13.40; FECFRAMEs=16448; FER=3.7e-03; TS Packets=420654; PER=0.0e+00
+log :info: Lock=True; SNR=13.90; FECFRAMEs=16672; FER=3.7e-03; TS Packets=426404; PER=0.0e+00
+log :info: Lock=True; SNR=13.43; FECFRAMEs=16896; FER=3.6e-03; TS Packets=432155; PER=0.0e+00
+log :info: Lock=True; SNR=13.78; FECFRAMEs=17120; FER=3.6e-03; TS Packets=437905; PER=0.0e+00
+log :info: Lock=True; SNR=13.83; FECFRAMEs=17344; FER=3.5e-03; TS Packets=443655; PER=0.0e+00
+log :info: Lock=True; SNR=13.82; FECFRAMEs=17568; FER=3.5e-03; TS Packets=449405; PER=0.0e+00
+log :info: Lock=True; SNR=14.07; FECFRAMEs=17792; FER=3.4e-03; TS Packets=455155; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
+
+
+
+
+Gain 0.4
+
+
+log :info: Starting DVB-S2 Rx
+log :info: Lock=False
+log :info: Lock=True; SNR=13.04; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=12.86; FECFRAMEs=416; FER=1.4e-01; TS Packets=9163; PER=0.0e+00
+log :info: Lock=True; SNR=13.33; FECFRAMEs=640; FER=9.2e-02; TS Packets=14913; PER=0.0e+00
+usrp_source :error: In the last 5354 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.98; FECFRAMEs=864; FER=7.1e-02; TS Packets=20610; PER=0.0e+00
+log :info: Lock=True; SNR=13.31; FECFRAMEs=1088; FER=5.6e-02; TS Packets=26361; PER=0.0e+00
+log :info: Lock=True; SNR=13.46; FECFRAMEs=1332; FER=4.6e-02; TS Packets=32573; PER=0.0e+00
+log :info: Lock=True; SNR=12.91; FECFRAMEs=1568; FER=3.9e-02; TS Packets=38682; PER=0.0e+00
+log :info: Lock=True; SNR=12.72; FECFRAMEs=1792; FER=3.4e-02; TS Packets=44432; PER=0.0e+00
+log :info: Lock=True; SNR=12.77; FECFRAMEs=2016; FER=3.0e-02; TS Packets=50182; PER=0.0e+00
+log :info: Lock=True; SNR=13.46; FECFRAMEs=2240; FER=2.7e-02; TS Packets=55933; PER=0.0e+00
+log :info: Lock=True; SNR=12.55; FECFRAMEs=2464; FER=2.5e-02; TS Packets=61683; PER=0.0e+00
+log :info: Lock=True; SNR=12.75; FECFRAMEs=2688; FER=2.3e-02; TS Packets=67433; PER=0.0e+00
+log :info: Lock=True; SNR=12.57; FECFRAMEs=2912; FER=2.1e-02; TS Packets=73183; PER=0.0e+00
+log :info: Lock=True; SNR=12.67; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78933; PER=0.0e+00
+log :info: Lock=True; SNR=12.86; FECFRAMEs=3360; FER=1.8e-02; TS Packets=84683; PER=0.0e+00
+log :info: Lock=True; SNR=13.04; FECFRAMEs=3584; FER=1.7e-02; TS Packets=90433; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=3808; FER=1.6e-02; TS Packets=96184; PER=0.0e+00
+log :info: Lock=True; SNR=13.06; FECFRAMEs=4032; FER=1.5e-02; TS Packets=101934; PER=0.0e+00
+log :info: Lock=True; SNR=12.93; FECFRAMEs=4256; FER=1.4e-02; TS Packets=107684; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=4480; FER=1.4e-02; TS Packets=113434; PER=0.0e+00
+log :info: Lock=True; SNR=13.16; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119184; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=4928; FER=1.2e-02; TS Packets=124934; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=5152; FER=1.2e-02; TS Packets=130684; PER=0.0e+00
+log :info: Lock=True; SNR=12.75; FECFRAMEs=5376; FER=1.1e-02; TS Packets=136434; PER=0.0e+00
+log :info: Lock=True; SNR=13.26; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142185; PER=0.0e+00
+log :info: Lock=True; SNR=13.27; FECFRAMEs=5824; FER=1.0e-02; TS Packets=147935; PER=0.0e+00
+log :info: Lock=True; SNR=13.20; FECFRAMEs=6048; FER=1.0e-02; TS Packets=153685; PER=0.0e+00
+log :info: Lock=True; SNR=13.51; FECFRAMEs=6304; FER=9.7e-03; TS Packets=160256; PER=0.0e+00
+log :info: Lock=True; SNR=13.27; FECFRAMEs=6528; FER=9.3e-03; TS Packets=166006; PER=0.0e+00
+log :info: Lock=True; SNR=13.40; FECFRAMEs=6752; FER=9.0e-03; TS Packets=171757; PER=0.0e+00
+log :info: Lock=True; SNR=13.76; FECFRAMEs=6976; FER=8.7e-03; TS Packets=177507; PER=0.0e+00
+log :info: Lock=True; SNR=14.25; FECFRAMEs=7200; FER=8.5e-03; TS Packets=183257; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=7424; FER=8.2e-03; TS Packets=189007; PER=0.0e+00
+log :info: Lock=True; SNR=13.54; FECFRAMEs=7648; FER=8.0e-03; TS Packets=194757; PER=0.0e+00
+log :info: Lock=True; SNR=14.04; FECFRAMEs=7872; FER=7.7e-03; TS Packets=200507; PER=0.0e+00
+log :info: Lock=True; SNR=13.51; FECFRAMEs=8096; FER=7.5e-03; TS Packets=206257; PER=0.0e+00
+log :info: Lock=True; SNR=13.28; FECFRAMEs=8320; FER=7.3e-03; TS Packets=212008; PER=0.0e+00
+log :info: Lock=True; SNR=13.05; FECFRAMEs=8544; FER=7.1e-03; TS Packets=217758; PER=0.0e+00
+log :info: Lock=True; SNR=12.76; FECFRAMEs=8768; FER=7.0e-03; TS Packets=223508; PER=0.0e+00
+log :info: Lock=True; SNR=13.07; FECFRAMEs=8992; FER=6.8e-03; TS Packets=229258; PER=0.0e+00
+log :info: Lock=True; SNR=12.30; FECFRAMEs=9216; FER=6.6e-03; TS Packets=235008; PER=0.0e+00
+log :info: Lock=True; SNR=12.49; FECFRAMEs=9440; FER=6.5e-03; TS Packets=240758; PER=0.0e+00
+log :info: Lock=True; SNR=12.57; FECFRAMEs=9664; FER=6.3e-03; TS Packets=246508; PER=0.0e+00
+log :info: Lock=True; SNR=12.31; FECFRAMEs=9888; FER=6.2e-03; TS Packets=252258; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=10112; FER=6.0e-03; TS Packets=258009; PER=0.0e+00
+log :info: Lock=True; SNR=12.81; FECFRAMEs=10336; FER=5.9e-03; TS Packets=263759; PER=0.0e+00
+log :info: Lock=True; SNR=13.30; FECFRAMEs=10560; FER=5.8e-03; TS Packets=269509; PER=0.0e+00
+usrp_source :error: In the last 44947 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.54; FECFRAMEs=10784; FER=5.7e-03; TS Packets=275259; PER=0.0e+00
+log :info: Lock=True; SNR=14.02; FECFRAMEs=11008; FER=5.6e-03; TS Packets=280982; PER=0.0e+00
+log :info: Lock=True; SNR=13.99; FECFRAMEs=11262; FER=5.5e-03; TS Packets=287353; PER=0.0e+00
+log :info: Lock=True; SNR=13.35; FECFRAMEs=11488; FER=5.4e-03; TS Packets=293304; PER=0.0e+00
+log :info: Lock=True; SNR=14.03; FECFRAMEs=11712; FER=5.3e-03; TS Packets=299054; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=11936; FER=5.2e-03; TS Packets=304804; PER=0.0e+00
+log :info: Lock=True; SNR=13.06; FECFRAMEs=12160; FER=5.1e-03; TS Packets=310554; PER=0.0e+00
+log :info: Lock=True; SNR=12.88; FECFRAMEs=12384; FER=5.0e-03; TS Packets=316305; PER=0.0e+00
+log :info: Lock=True; SNR=13.38; FECFRAMEs=12608; FER=4.9e-03; TS Packets=322055; PER=0.0e+00
+log :info: Lock=True; SNR=13.20; FECFRAMEs=12832; FER=4.8e-03; TS Packets=327805; PER=0.0e+00
+log :info: Lock=True; SNR=13.60; FECFRAMEs=13056; FER=4.7e-03; TS Packets=333555; PER=0.0e+00
+log :info: Lock=True; SNR=14.04; FECFRAMEs=13280; FER=4.7e-03; TS Packets=339305; PER=0.0e+00
+log :info: Lock=True; SNR=13.78; FECFRAMEs=13504; FER=4.6e-03; TS Packets=345055; PER=0.0e+00
+log :info: Lock=True; SNR=13.60; FECFRAMEs=13728; FER=4.5e-03; TS Packets=350805; PER=0.0e+00
+log :info: Lock=True; SNR=13.75; FECFRAMEs=13952; FER=4.4e-03; TS Packets=356555; PER=0.0e+00
+log :info: Lock=True; SNR=13.92; FECFRAMEs=14176; FER=4.4e-03; TS Packets=362306; PER=0.0e+00
+log :info: Lock=True; SNR=13.50; FECFRAMEs=14400; FER=4.3e-03; TS Packets=368056; PER=0.0e+00
+log :info: Lock=True; SNR=14.19; FECFRAMEs=14624; FER=4.2e-03; TS Packets=373806; PER=0.0e+00
+log :info: Lock=True; SNR=13.85; FECFRAMEs=14848; FER=4.2e-03; TS Packets=379556; PER=0.0e+00
+log :info: Lock=True; SNR=13.53; FECFRAMEs=15072; FER=4.1e-03; TS Packets=385306; PER=0.0e+00
+log :info: Lock=True; SNR=13.16; FECFRAMEs=15296; FER=4.1e-03; TS Packets=391056; PER=0.0e+00
+log :info: Lock=True; SNR=13.12; FECFRAMEs=15520; FER=4.0e-03; TS Packets=396806; PER=0.0e+00
+log :info: Lock=True; SNR=13.73; FECFRAMEs=15744; FER=3.9e-03; TS Packets=402557; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=15968; FER=3.9e-03; TS Packets=408307; PER=0.0e+00
+log :info: Lock=True; SNR=13.21; FECFRAMEs=16224; FER=3.8e-03; TS Packets=414878; PER=0.0e+00
+log :info: Lock=True; SNR=13.34; FECFRAMEs=16448; FER=3.8e-03; TS Packets=420628; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=16672; FER=3.7e-03; TS Packets=426378; PER=0.0e+00
+log :info: Lock=True; SNR=12.72; FECFRAMEs=16896; FER=3.7e-03; TS Packets=432129; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=17120; FER=3.6e-03; TS Packets=437879; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=17344; FER=3.6e-03; TS Packets=443629; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=17568; FER=3.5e-03; TS Packets=449379; PER=0.0e+00
+usrp_source :error: In the last 30782 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.03; FECFRAMEs=17792; FER=3.5e-03; TS Packets=455102; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=18016; FER=3.5e-03; TS Packets=460853; PER=0.0e+00
+log :info: Lock=True; SNR=13.10; FECFRAMEs=18240; FER=3.5e-03; TS Packets=466603; PER=0.0e+00
+log :info: Lock=True; SNR=13.34; FECFRAMEs=18464; FER=3.4e-03; TS Packets=472353; PER=0.0e+00
+log :info: Lock=True; SNR=13.27; FECFRAMEs=18688; FER=3.4e-03; TS Packets=478103; PER=0.0e+00
+log :info: Lock=True; SNR=13.18; FECFRAMEs=18912; FER=3.3e-03; TS Packets=483853; PER=0.0e+00
+usrp_source :error: In the last 5998 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.46; FECFRAMEs=19136; FER=3.3e-03; TS Packets=489577; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=19360; FER=3.3e-03; TS Packets=495327; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=19584; FER=3.3e-03; TS Packets=501077; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=19808; FER=3.2e-03; TS Packets=506827; PER=0.0e+00
+log :info: Lock=True; SNR=13.34; FECFRAMEs=20032; FER=3.2e-03; TS Packets=512577; PER=0.0e+00
+log :info: Lock=True; SNR=13.25; FECFRAMEs=20256; FER=3.2e-03; TS Packets=518328; PER=0.0e+00
+log :info: Lock=True; SNR=13.64; FECFRAMEs=20480; FER=3.1e-03; TS Packets=524078; PER=0.0e+00
+log :info: Lock=True; SNR=13.43; FECFRAMEs=20704; FER=3.1e-03; TS Packets=529828; PER=0.0e+00
+log :info: Lock=True; SNR=13.45; FECFRAMEs=20928; FER=3.1e-03; TS Packets=535578; PER=0.0e+00
+log :info: Lock=True; SNR=13.39; FECFRAMEs=21157; FER=3.0e-03; TS Packets=541328; PER=0.0e+00
+log :info: Lock=True; SNR=13.36; FECFRAMEs=21408; FER=3.0e-03; TS Packets=547900; PER=0.0e+00
+log :info: Lock=True; SNR=13.34; FECFRAMEs=21632; FER=3.0e-03; TS Packets=553650; PER=0.0e+00
+log :info: Lock=True; SNR=13.32; FECFRAMEs=21856; FER=2.9e-03; TS Packets=559400; PER=0.0e+00
+log :info: Lock=True; SNR=13.26; FECFRAMEs=22080; FER=2.9e-03; TS Packets=565150; PER=0.0e+00
+log :info: Lock=True; SNR=13.23; FECFRAMEs=22304; FER=2.9e-03; TS Packets=570900; PER=0.0e+00
+log :info: Lock=True; SNR=13.31; FECFRAMEs=22528; FER=2.8e-03; TS Packets=576650; PER=0.0e+00
+log :info: Lock=True; SNR=13.30; FECFRAMEs=22752; FER=2.8e-03; TS Packets=582400; PER=0.0e+00
+log :info: Lock=True; SNR=13.37; FECFRAMEs=22976; FER=2.8e-03; TS Packets=588151; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=23200; FER=2.8e-03; TS Packets=593901; PER=0.0e+00
+log :info: Lock=True; SNR=13.36; FECFRAMEs=23424; FER=2.7e-03; TS Packets=599651; PER=0.0e+00
+log :info: Lock=True; SNR=13.28; FECFRAMEs=23648; FER=2.7e-03; TS Packets=605401; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=23872; FER=2.7e-03; TS Packets=611151; PER=0.0e+00
+log :info: Lock=True; SNR=13.20; FECFRAMEs=24096; FER=2.7e-03; TS Packets=616901; PER=0.0e+00
+log :info: Lock=True; SNR=13.45; FECFRAMEs=24320; FER=2.6e-03; TS Packets=622651; PER=0.0e+00
+log :info: Lock=True; SNR=13.42; FECFRAMEs=24544; FER=2.6e-03; TS Packets=628401; PER=0.0e+00
+log :info: Lock=True; SNR=13.43; FECFRAMEs=24768; FER=2.6e-03; TS Packets=634152; PER=0.0e+00
+log :info: Lock=True; SNR=13.34; FECFRAMEs=24992; FER=2.6e-03; TS Packets=639902; PER=0.0e+00
+log :info: Lock=True; SNR=13.31; FECFRAMEs=25216; FER=2.5e-03; TS Packets=645652; PER=0.0e+00
+log :info: Lock=True; SNR=13.51; FECFRAMEs=25440; FER=2.5e-03; TS Packets=651402; PER=0.0e+00
+log :info: Lock=True; SNR=13.41; FECFRAMEs=25664; FER=2.5e-03; TS Packets=657152; PER=0.0e+00
+log :info: Lock=True; SNR=13.15; FECFRAMEs=25888; FER=2.5e-03; TS Packets=662902; PER=0.0e+00
+log :info: Lock=True; SNR=13.51; FECFRAMEs=26144; FER=2.4e-03; TS Packets=669474; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=26368; FER=2.4e-03; TS Packets=675224; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=26592; FER=2.4e-03; TS Packets=680974; PER=0.0e+00
+log :info: Lock=True; SNR=13.43; FECFRAMEs=26816; FER=2.4e-03; TS Packets=686724; PER=0.0e+00
+log :info: Lock=True; SNR=13.23; FECFRAMEs=27040; FER=2.4e-03; TS Packets=692474; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=27264; FER=2.3e-03; TS Packets=698224; PER=0.0e+00
+log :info: Lock=True; SNR=13.07; FECFRAMEs=27488; FER=2.3e-03; TS Packets=703975; PER=0.0e+00
+usrp_source :error: In the last 37459 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.37; FECFRAMEs=27712; FER=2.3e-03; TS Packets=709698; PER=0.0e+00
+log :info: Lock=True; SNR=13.61; FECFRAMEs=27936; FER=2.3e-03; TS Packets=715448; PER=0.0e+00
+log :info: Lock=True; SNR=13.52; FECFRAMEs=28160; FER=2.3e-03; TS Packets=721199; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=28384; FER=2.3e-03; TS Packets=726949; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=28608; FER=2.3e-03; TS Packets=732699; PER=0.0e+00
+log :info: Lock=True; SNR=13.23; FECFRAMEs=28832; FER=2.3e-03; TS Packets=738449; PER=0.0e+00
+log :info: Lock=True; SNR=12.91; FECFRAMEs=29056; FER=2.2e-03; TS Packets=744199; PER=0.0e+00
+log :info: Lock=True; SNR=13.43; FECFRAMEs=29280; FER=2.2e-03; TS Packets=749949; PER=0.0e+00
+log :info: Lock=True; SNR=13.16; FECFRAMEs=29504; FER=2.2e-03; TS Packets=755699; PER=0.0e+00
+log :info: Lock=True; SNR=13.15; FECFRAMEs=29728; FER=2.2e-03; TS Packets=761449; PER=0.0e+00
+log :info: Lock=True; SNR=13.19; FECFRAMEs=29952; FER=2.2e-03; TS Packets=767200; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=30176; FER=2.2e-03; TS Packets=772950; PER=0.0e+00
+log :info: Lock=True; SNR=13.12; FECFRAMEs=30400; FER=2.1e-03; TS Packets=778700; PER=0.0e+00
+usrp_source :error: In the last 13207 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.11; FECFRAMEs=30624; FER=2.2e-03; TS Packets=784398; PER=0.0e+00
+log :info: Lock=True; SNR=13.21; FECFRAMEs=30848; FER=2.2e-03; TS Packets=790148; PER=0.0e+00
+log :info: Lock=True; SNR=13.10; FECFRAMEs=31104; FER=2.2e-03; TS Packets=796719; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=31328; FER=2.1e-03; TS Packets=802469; PER=0.0e+00
+log :info: Lock=True; SNR=13.21; FECFRAMEs=31552; FER=2.1e-03; TS Packets=808220; PER=0.0e+00
+log :info: Lock=True; SNR=13.40; FECFRAMEs=31776; FER=2.1e-03; TS Packets=813970; PER=0.0e+00
+log :info: Lock=True; SNR=13.22; FECFRAMEs=32000; FER=2.1e-03; TS Packets=819720; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=32224; FER=2.1e-03; TS Packets=825470; PER=0.0e+00
+log :info: Lock=True; SNR=12.99; FECFRAMEs=32448; FER=2.1e-03; TS Packets=831220; PER=0.0e+00
+log :info: Lock=True; SNR=12.61; FECFRAMEs=32672; FER=2.1e-03; TS Packets=836970; PER=0.0e+00
+log :info: Lock=True; SNR=12.83; FECFRAMEs=32896; FER=2.0e-03; TS Packets=842720; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=33120; FER=2.0e-03; TS Packets=848470; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=33344; FER=2.0e-03; TS Packets=854221; PER=0.0e+00
+log :info: Lock=True; SNR=12.99; FECFRAMEs=33568; FER=2.0e-03; TS Packets=859971; PER=0.0e+00
+usrp_source :error: In the last 14457 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.65; FECFRAMEs=33792; FER=2.0e-03; TS Packets=865669; PER=0.0e+00
+log :info: Lock=True; SNR=13.67; FECFRAMEs=34016; FER=2.0e-03; TS Packets=871419; PER=0.0e+00
+log :info: Lock=True; SNR=13.42; FECFRAMEs=34240; FER=2.0e-03; TS Packets=877169; PER=0.0e+00
+log :info: Lock=True; SNR=13.02; FECFRAMEs=34464; FER=2.0e-03; TS Packets=882920; PER=0.0e+00
+log :info: Lock=True; SNR=13.36; FECFRAMEs=34688; FER=2.0e-03; TS Packets=888670; PER=0.0e+00
+log :info: Lock=True; SNR=13.21; FECFRAMEs=34912; FER=2.0e-03; TS Packets=894420; PER=0.0e+00
+log :info: Lock=True; SNR=12.96; FECFRAMEs=35136; FER=2.0e-03; TS Packets=900170; PER=0.0e+00
+log :info: Lock=True; SNR=13.23; FECFRAMEs=35360; FER=2.0e-03; TS Packets=905920; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=35584; FER=1.9e-03; TS Packets=911670; PER=0.0e+00
+log :info: Lock=True; SNR=13.35; FECFRAMEs=35808; FER=1.9e-03; TS Packets=917420; PER=0.0e+00
+log :info: Lock=True; SNR=13.32; FECFRAMEs=36036; FER=1.9e-03; TS Packets=923170; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=36288; FER=1.9e-03; TS Packets=929742; PER=0.0e+00
+log :info: Lock=True; SNR=12.96; FECFRAMEs=36512; FER=1.9e-03; TS Packets=935492; PER=0.0e+00
+log :info: Lock=True; SNR=13.12; FECFRAMEs=36736; FER=1.9e-03; TS Packets=941242; PER=0.0e+00
+log :info: Lock=True; SNR=13.14; FECFRAMEs=36960; FER=1.9e-03; TS Packets=946992; PER=0.0e+00
+log :info: Lock=True; SNR=12.92; FECFRAMEs=37184; FER=1.9e-03; TS Packets=952743; PER=0.0e+00
+usrp_source :error: In the last 15795 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.87; FECFRAMEs=37408; FER=1.9e-03; TS Packets=958440; PER=0.0e+00
+log :info: Lock=True; SNR=12.74; FECFRAMEs=37632; FER=1.9e-03; TS Packets=964190; PER=0.0e+00
+log :info: Lock=True; SNR=12.89; FECFRAMEs=37856; FER=1.9e-03; TS Packets=969940; PER=0.0e+00
+log :info: Lock=True; SNR=12.95; FECFRAMEs=38080; FER=1.9e-03; TS Packets=975690; PER=0.0e+00
+log :info: Lock=True; SNR=13.08; FECFRAMEs=38304; FER=1.9e-03; TS Packets=981441; PER=0.0e+00
+log :info: Lock=True; SNR=12.84; FECFRAMEs=38528; FER=1.8e-03; TS Packets=987191; PER=0.0e+00
+log :info: Lock=True; SNR=13.15; FECFRAMEs=38752; FER=1.8e-03; TS Packets=992941; PER=0.0e+00
+log :info: Lock=True; SNR=13.07; FECFRAMEs=38976; FER=1.8e-03; TS Packets=998691; PER=0.0e+00
+log :info: Lock=True; SNR=13.39; FECFRAMEs=39200; FER=1.8e-03; TS Packets=1004441; PER=0.0e+00
+log :info: Lock=True; SNR=13.30; FECFRAMEs=39424; FER=1.8e-03; TS Packets=1010191; PER=0.0e+00
+log :info: Lock=True; SNR=13.49; FECFRAMEs=39648; FER=1.8e-03; TS Packets=1015941; PER=0.0e+00
+log :info: Lock=True; SNR=13.33; FECFRAMEs=39872; FER=1.8e-03; TS Packets=1021691; PER=0.0e+00
+log :info: Lock=True; SNR=13.04; FECFRAMEs=40096; FER=1.8e-03; TS Packets=1027442; PER=0.0e+00
+log :info: Lock=True; SNR=12.96; FECFRAMEs=40320; FER=1.8e-03; TS Packets=1033192; PER=0.0e+00
+log :info: Lock=True; SNR=12.93; FECFRAMEs=40544; FER=1.8e-03; TS Packets=1038942; PER=0.0e+00
+log :info: Lock=True; SNR=12.92; FECFRAMEs=40768; FER=1.7e-03; TS Packets=1044692; PER=0.0e+00
+log :info: Lock=True; SNR=13.07; FECFRAMEs=40992; FER=1.7e-03; TS Packets=1050442; PER=0.0e+00
+log :info: Lock=True; SNR=13.26; FECFRAMEs=41248; FER=1.7e-03; TS Packets=1057014; PER=0.0e+00
+log :info: Lock=True; SNR=13.04; FECFRAMEs=41472; FER=1.7e-03; TS Packets=1062764; PER=0.0e+00
+log :info: Lock=True; SNR=13.04; FECFRAMEs=41696; FER=1.7e-03; TS Packets=1068514; PER=0.0e+00
+log :info: Lock=True; SNR=13.39; FECFRAMEs=41920; FER=1.7e-03; TS Packets=1074264; PER=0.0e+00
+usrp_source :error: In the last 21174 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.21; FECFRAMEs=42144; FER=1.7e-03; TS Packets=1079988; PER=0.0e+00
+log :info: Lock=True; SNR=13.48; FECFRAMEs=42368; FER=1.7e-03; TS Packets=1085738; PER=0.0e+00
+log :info: Lock=True; SNR=13.15; FECFRAMEs=42592; FER=1.7e-03; TS Packets=1091488; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=42816; FER=1.7e-03; TS Packets=1097238; PER=0.0e+00
+log :info: Lock=True; SNR=13.54; FECFRAMEs=43040; FER=1.7e-03; TS Packets=1102988; PER=0.0e+00
+log :info: Lock=True; SNR=13.57; FECFRAMEs=43264; FER=1.7e-03; TS Packets=1108738; PER=0.0e+00
+log :info: Lock=True; SNR=13.53; FECFRAMEs=43488; FER=1.7e-03; TS Packets=1114488; PER=0.0e+00
+log :info: Lock=True; SNR=13.42; FECFRAMEs=43712; FER=1.6e-03; TS Packets=1120238; PER=0.0e+00
+log :info: Lock=True; SNR=13.51; FECFRAMEs=43936; FER=1.6e-03; TS Packets=1125989; PER=0.0e+00
+log :info: Lock=True; SNR=12.96; FECFRAMEs=44160; FER=1.6e-03; TS Packets=1131739; PER=0.0e+00
+log :info: Lock=True; SNR=13.00; FECFRAMEs=44384; FER=1.6e-03; TS Packets=1137489; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=44608; FER=1.6e-03; TS Packets=1143239; PER=0.0e+00
+log :info: Lock=True; SNR=12.92; FECFRAMEs=44832; FER=1.6e-03; TS Packets=1148989; PER=0.0e+00
+log :info: Lock=True; SNR=12.93; FECFRAMEs=45056; FER=1.6e-03; TS Packets=1154739; PER=0.0e+00
+log :info: Lock=True; SNR=12.88; FECFRAMEs=45280; FER=1.6e-03; TS Packets=1160489; PER=0.0e+00
+log :info: Lock=True; SNR=13.11; FECFRAMEs=45504; FER=1.6e-03; TS Packets=1166239; PER=0.0e+00
+log :info: Lock=True; SNR=12.91; FECFRAMEs=45728; FER=1.6e-03; TS Packets=1171990; PER=0.0e+00
+log :info: Lock=True; SNR=12.87; FECFRAMEs=45952; FER=1.6e-03; TS Packets=1177740; PER=0.0e+00
+log :info: Lock=True; SNR=12.55; FECFRAMEs=46176; FER=1.6e-03; TS Packets=1183490; PER=0.0e+00
+log :info: Lock=True; SNR=12.46; FECFRAMEs=46432; FER=1.6e-03; TS Packets=1190061; PER=0.0e+00
+log :info: Lock=True; SNR=12.63; FECFRAMEs=46656; FER=1.5e-03; TS Packets=1195812; PER=0.0e+00
+log :info: Lock=True; SNR=12.63; FECFRAMEs=46880; FER=1.5e-03; TS Packets=1201562; PER=0.0e+00
+log :info: Lock=True; SNR=12.82; FECFRAMEs=47104; FER=1.5e-03; TS Packets=1207312; PER=0.0e+00
+log :info: Lock=True; SNR=12.92; FECFRAMEs=47328; FER=1.5e-03; TS Packets=1213062; PER=0.0e+00
+log :info: Lock=True; SNR=12.26; FECFRAMEs=47552; FER=1.5e-03; TS Packets=1218812; PER=0.0e+00
+log :info: Lock=True; SNR=12.71; FECFRAMEs=47776; FER=1.5e-03; TS Packets=1224562; PER=0.0e+00
+log :info: Lock=True; SNR=12.40; FECFRAMEs=48000; FER=1.5e-03; TS Packets=1230312; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
+
+
+
+
+Gain 0.5
+log :info: Starting DVB-S2 Rx
+log :info: Lock=False
+bbdeheader_bb :warning: Baseband header invalid (dfl > kbch - 80).
+log :info: Lock=True; SNR=12.72; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=12.46; FECFRAMEs=416; FER=1.4e-01; TS Packets=9163; PER=0.0e+00
+log :info: Lock=True; SNR=12.55; FECFRAMEs=640; FER=9.2e-02; TS Packets=14913; PER=0.0e+00
+usrp_source :error: In the last 5843 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.22; FECFRAMEs=864; FER=7.1e-02; TS Packets=20611; PER=0.0e+00
+log :info: Lock=True; SNR=12.36; FECFRAMEs=1088; FER=5.6e-02; TS Packets=26361; PER=0.0e+00
+log :info: Lock=True; SNR=12.71; FECFRAMEs=1312; FER=4.6e-02; TS Packets=32111; PER=0.0e+00
+log :info: Lock=True; SNR=12.59; FECFRAMEs=1568; FER=3.9e-02; TS Packets=38683; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=1792; FER=3.4e-02; TS Packets=44433; PER=0.0e+00
+log :info: Lock=True; SNR=12.51; FECFRAMEs=2016; FER=3.0e-02; TS Packets=50183; PER=0.0e+00
+log :info: Lock=True; SNR=12.43; FECFRAMEs=2240; FER=2.7e-02; TS Packets=55933; PER=0.0e+00
+log :info: Lock=True; SNR=12.62; FECFRAMEs=2464; FER=2.5e-02; TS Packets=61684; PER=0.0e+00
+log :info: Lock=True; SNR=12.65; FECFRAMEs=2688; FER=2.3e-02; TS Packets=67434; PER=0.0e+00
+log :info: Lock=True; SNR=12.10; FECFRAMEs=2912; FER=2.1e-02; TS Packets=73184; PER=0.0e+00
+usrp_source :error: In the last 10954 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.77; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78934; PER=0.0e+00
+log :info: Lock=True; SNR=12.78; FECFRAMEs=3360; FER=1.9e-02; TS Packets=84631; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=3584; FER=1.8e-02; TS Packets=90382; PER=0.0e+00
+log :info: Lock=True; SNR=12.53; FECFRAMEs=3808; FER=1.7e-02; TS Packets=96132; PER=0.0e+00
+log :info: Lock=True; SNR=12.81; FECFRAMEs=4032; FER=1.6e-02; TS Packets=101882; PER=0.0e+00
+log :info: Lock=True; SNR=13.02; FECFRAMEs=4256; FER=1.5e-02; TS Packets=107632; PER=0.0e+00
+log :info: Lock=True; SNR=12.58; FECFRAMEs=4480; FER=1.4e-02; TS Packets=113382; PER=0.0e+00
+log :info: Lock=True; SNR=13.03; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119132; PER=0.0e+00
+log :info: Lock=True; SNR=13.26; FECFRAMEs=4928; FER=1.3e-02; TS Packets=124882; PER=0.0e+00
+log :info: Lock=True; SNR=13.16; FECFRAMEs=5152; FER=1.2e-02; TS Packets=130632; PER=0.0e+00
+log :info: Lock=True; SNR=12.62; FECFRAMEs=5376; FER=1.2e-02; TS Packets=136383; PER=0.0e+00
+log :info: Lock=True; SNR=12.97; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142133; PER=0.0e+00
+log :info: Lock=True; SNR=12.37; FECFRAMEs=5824; FER=1.1e-02; TS Packets=147883; PER=0.0e+00
+log :info: Lock=True; SNR=12.65; FECFRAMEs=6048; FER=1.0e-02; TS Packets=153633; PER=0.0e+00
+log :info: Lock=True; SNR=12.82; FECFRAMEs=6272; FER=1.0e-02; TS Packets=159383; PER=0.0e+00
+log :info: Lock=True; SNR=12.88; FECFRAMEs=6496; FER=9.7e-03; TS Packets=165133; PER=0.0e+00
+log :info: Lock=True; SNR=12.68; FECFRAMEs=6752; FER=9.3e-03; TS Packets=171705; PER=0.0e+00
+log :info: Lock=True; SNR=13.04; FECFRAMEs=6976; FER=9.0e-03; TS Packets=177455; PER=0.0e+00
+log :info: Lock=True; SNR=12.40; FECFRAMEs=7200; FER=8.8e-03; TS Packets=183205; PER=0.0e+00
+log :info: Lock=True; SNR=12.91; FECFRAMEs=7424; FER=8.5e-03; TS Packets=188955; PER=0.0e+00
+log :info: Lock=True; SNR=12.68; FECFRAMEs=7648; FER=8.2e-03; TS Packets=194705; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=7872; FER=8.0e-03; TS Packets=200455; PER=0.0e+00
+log :info: Lock=True; SNR=12.88; FECFRAMEs=8096; FER=7.8e-03; TS Packets=206206; PER=0.0e+00
+log :info: Lock=True; SNR=13.16; FECFRAMEs=8320; FER=7.6e-03; TS Packets=211956; PER=0.0e+00
+log :info: Lock=True; SNR=12.99; FECFRAMEs=8544; FER=7.4e-03; TS Packets=217706; PER=0.0e+00
+log :info: Lock=True; SNR=13.30; FECFRAMEs=8768; FER=7.2e-03; TS Packets=223456; PER=0.0e+00
+log :info: Lock=True; SNR=13.05; FECFRAMEs=8992; FER=7.0e-03; TS Packets=229206; PER=0.0e+00
+log :info: Lock=True; SNR=13.14; FECFRAMEs=9216; FER=6.8e-03; TS Packets=234956; PER=0.0e+00
+log :info: Lock=True; SNR=13.38; FECFRAMEs=9440; FER=6.7e-03; TS Packets=240706; PER=0.0e+00
+log :info: Lock=True; SNR=12.92; FECFRAMEs=9664; FER=6.5e-03; TS Packets=246456; PER=0.0e+00
+log :info: Lock=True; SNR=12.90; FECFRAMEs=9888; FER=6.4e-03; TS Packets=252207; PER=0.0e+00
+log :info: Lock=True; SNR=12.87; FECFRAMEs=10112; FER=6.2e-03; TS Packets=257957; PER=0.0e+00
+log :info: Lock=True; SNR=12.90; FECFRAMEs=10336; FER=6.1e-03; TS Packets=263707; PER=0.0e+00
+log :info: Lock=True; SNR=12.84; FECFRAMEs=10560; FER=6.0e-03; TS Packets=269457; PER=0.0e+00
+log :info: Lock=True; SNR=12.61; FECFRAMEs=10784; FER=5.8e-03; TS Packets=275207; PER=0.0e+00
+log :info: Lock=True; SNR=12.63; FECFRAMEs=11008; FER=5.7e-03; TS Packets=280957; PER=0.0e+00
+log :info: Lock=True; SNR=13.12; FECFRAMEs=11232; FER=5.6e-03; TS Packets=286707; PER=0.0e+00
+log :info: Lock=True; SNR=13.02; FECFRAMEs=11488; FER=5.5e-03; TS Packets=293279; PER=0.0e+00
+log :info: Lock=True; SNR=13.09; FECFRAMEs=11712; FER=5.4e-03; TS Packets=299029; PER=0.0e+00
+log :info: Lock=True; SNR=12.94; FECFRAMEs=11936; FER=5.3e-03; TS Packets=304779; PER=0.0e+00
+log :info: Lock=True; SNR=12.97; FECFRAMEs=12160; FER=5.2e-03; TS Packets=310529; PER=0.0e+00
+log :info: Lock=True; SNR=12.90; FECFRAMEs=12384; FER=5.1e-03; TS Packets=316279; PER=0.0e+00
+log :info: Lock=True; SNR=12.59; FECFRAMEs=12608; FER=5.0e-03; TS Packets=322030; PER=0.0e+00
+log :info: Lock=True; SNR=12.62; FECFRAMEs=12832; FER=4.9e-03; TS Packets=327780; PER=0.0e+00
+usrp_source :error: In the last 43756 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=13.22; FECFRAMEs=13056; FER=5.0e-03; TS Packets=333477; PER=0.0e+00
+log :info: Lock=True; SNR=13.44; FECFRAMEs=13280; FER=4.9e-03; TS Packets=339227; PER=0.0e+00
+log :info: Lock=True; SNR=13.09; FECFRAMEs=13504; FER=4.8e-03; TS Packets=344977; PER=0.0e+00
+log :info: Lock=True; SNR=13.27; FECFRAMEs=13728; FER=4.7e-03; TS Packets=350727; PER=0.0e+00
+log :info: Lock=True; SNR=13.64; FECFRAMEs=13952; FER=4.7e-03; TS Packets=356478; PER=0.0e+00
+log :info: Lock=True; SNR=13.00; FECFRAMEs=14176; FER=4.6e-03; TS Packets=362228; PER=0.0e+00
+log :info: Lock=True; SNR=13.13; FECFRAMEs=14400; FER=4.5e-03; TS Packets=367978; PER=0.0e+00
+log :info: Lock=True; SNR=13.39; FECFRAMEs=14624; FER=4.4e-03; TS Packets=373728; PER=0.0e+00
+log :info: Lock=True; SNR=13.64; FECFRAMEs=14848; FER=4.4e-03; TS Packets=379478; PER=0.0e+00
+log :info: Lock=True; SNR=13.81; FECFRAMEs=15072; FER=4.3e-03; TS Packets=385228; PER=0.0e+00
+log :info: Lock=True; SNR=13.50; FECFRAMEs=15296; FER=4.2e-03; TS Packets=390978; PER=0.0e+00
+log :info: Lock=True; SNR=13.52; FECFRAMEs=15520; FER=4.2e-03; TS Packets=396729; PER=0.0e+00
+log :info: Lock=True; SNR=13.78; FECFRAMEs=15744; FER=4.1e-03; TS Packets=402479; PER=0.0e+00
+log :info: Lock=True; SNR=13.68; FECFRAMEs=15968; FER=4.1e-03; TS Packets=408229; PER=0.0e+00
+log :info: Lock=True; SNR=12.90; FECFRAMEs=16192; FER=4.0e-03; TS Packets=413979; PER=0.0e+00
+log :info: Lock=True; SNR=13.63; FECFRAMEs=16416; FER=4.0e-03; TS Packets=419729; PER=0.0e+00
+log :info: Lock=True; SNR=13.02; FECFRAMEs=16672; FER=3.9e-03; TS Packets=426301; PER=0.0e+00
+log :info: Lock=True; SNR=13.09; FECFRAMEs=16896; FER=3.8e-03; TS Packets=432051; PER=0.0e+00
+log :info: Lock=True; SNR=13.26; FECFRAMEs=17120; FER=3.8e-03; TS Packets=437801; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=17344; FER=3.7e-03; TS Packets=443551; PER=0.0e+00
+log :info: Lock=True; SNR=13.47; FECFRAMEs=17568; FER=3.7e-03; TS Packets=449301; PER=0.0e+00
+log :info: Lock=True; SNR=13.67; FECFRAMEs=17792; FER=3.7e-03; TS Packets=455051; PER=0.0e+00
+log :info: Lock=True; SNR=13.55; FECFRAMEs=18016; FER=3.6e-03; TS Packets=460801; PER=0.0e+00
+log :info: Lock=True; SNR=13.29; FECFRAMEs=18240; FER=3.6e-03; TS Packets=466551; PER=0.0e+00
+log :info: Lock=True; SNR=12.78; FECFRAMEs=18464; FER=3.5e-03; TS Packets=472302; PER=0.0e+00
+log :info: Lock=True; SNR=13.58; FECFRAMEs=18688; FER=3.5e-03; TS Packets=478052; PER=0.0e+00
+log :info: Lock=True; SNR=12.24; FECFRAMEs=18912; FER=3.4e-03; TS Packets=483802; PER=0.0e+00
+log :info: Lock=True; SNR=12.12; FECFRAMEs=19136; FER=3.4e-03; TS Packets=489552; PER=0.0e+00
+log :info: Lock=True; SNR=12.51; FECFRAMEs=19360; FER=3.4e-03; TS Packets=495302; PER=0.0e+00
+log :info: Lock=True; SNR=12.02; FECFRAMEs=19584; FER=3.3e-03; TS Packets=501052; PER=0.0e+00
+log :info: Lock=True; SNR=11.95; FECFRAMEs=19808; FER=3.3e-03; TS Packets=506802; PER=0.0e+00
+log :info: Lock=True; SNR=12.76; FECFRAMEs=20032; FER=3.2e-03; TS Packets=512553; PER=0.0e+00
+log :info: Lock=True; SNR=12.00; FECFRAMEs=20256; FER=3.2e-03; TS Packets=518303; PER=0.0e+00
+usrp_source :error: In the last 33245 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.69; FECFRAMEs=20480; FER=3.2e-03; TS Packets=524053; PER=0.0e+00
+log :info: Lock=True; SNR=12.93; FECFRAMEs=20704; FER=3.2e-03; TS Packets=529751; PER=0.0e+00
+log :info: Lock=True; SNR=12.95; FECFRAMEs=20928; FER=3.2e-03; TS Packets=535501; PER=0.0e+00
+log :info: Lock=True; SNR=13.15; FECFRAMEs=21152; FER=3.2e-03; TS Packets=541251; PER=0.0e+00
+log :info: Lock=True; SNR=12.90; FECFRAMEs=21377; FER=3.1e-03; TS Packets=547002; PER=0.0e+00
+log :info: Lock=True; SNR=12.27; FECFRAMEs=21632; FER=3.1e-03; TS Packets=553573; PER=0.0e+00
+log :info: Lock=True; SNR=12.62; FECFRAMEs=21856; FER=3.1e-03; TS Packets=559323; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=22080; FER=3.0e-03; TS Packets=565073; PER=0.0e+00
+log :info: Lock=True; SNR=12.35; FECFRAMEs=22304; FER=3.0e-03; TS Packets=570824; PER=0.0e+00
+log :info: Lock=True; SNR=12.14; FECFRAMEs=22528; FER=3.0e-03; TS Packets=576574; PER=0.0e+00
+log :info: Lock=True; SNR=11.90; FECFRAMEs=22752; FER=2.9e-03; TS Packets=582324; PER=0.0e+00
+log :info: Lock=True; SNR=12.00; FECFRAMEs=22976; FER=2.9e-03; TS Packets=588074; PER=0.0e+00
+log :info: Lock=True; SNR=12.03; FECFRAMEs=23200; FER=2.9e-03; TS Packets=593824; PER=0.0e+00
+log :info: Lock=True; SNR=12.14; FECFRAMEs=23424; FER=2.9e-03; TS Packets=599574; PER=0.0e+00
+log :info: Lock=True; SNR=12.16; FECFRAMEs=23648; FER=2.8e-03; TS Packets=605324; PER=0.0e+00
+log :info: Lock=True; SNR=12.21; FECFRAMEs=23872; FER=2.8e-03; TS Packets=611074; PER=0.0e+00
+log :info: Lock=True; SNR=12.23; FECFRAMEs=24096; FER=2.8e-03; TS Packets=616825; PER=0.0e+00
+log :info: Lock=True; SNR=12.13; FECFRAMEs=24320; FER=2.8e-03; TS Packets=622575; PER=0.0e+00
+usrp_source :error: In the last 18047 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.29; FECFRAMEs=24544; FER=2.7e-03; TS Packets=628325; PER=0.0e+00
+log :info: Lock=True; SNR=12.27; FECFRAMEs=24768; FER=2.8e-03; TS Packets=634022; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
+
+
+
+
+Gain 1
+log :info: Starting DVB-S2 Rx
+log :info: Lock=False
+bbdeheader_bb :warning: Baseband header invalid (dfl > kbch - 80).
+log :info: Lock=True; SNR=12.44; FECFRAMEs=192; FER=3.1e-01; TS Packets=3413; PER=0.0e+00
+log :info: Lock=True; SNR=12.46; FECFRAMEs=416; FER=1.4e-01; TS Packets=9163; PER=0.0e+00
+log :info: Lock=True; SNR=12.56; FECFRAMEs=640; FER=9.2e-02; TS Packets=14914; PER=0.0e+00
+log :info: Lock=True; SNR=12.57; FECFRAMEs=864; FER=6.8e-02; TS Packets=20664; PER=0.0e+00
+log :info: Lock=True; SNR=12.31; FECFRAMEs=1088; FER=5.4e-02; TS Packets=26414; PER=0.0e+00
+log :info: Lock=True; SNR=12.36; FECFRAMEs=1344; FER=4.4e-02; TS Packets=32985; PER=0.0e+00
+log :info: Lock=True; SNR=12.51; FECFRAMEs=1568; FER=3.8e-02; TS Packets=38735; PER=0.0e+00
+log :info: Lock=True; SNR=12.70; FECFRAMEs=1792; FER=3.3e-02; TS Packets=44486; PER=0.0e+00
+log :info: Lock=True; SNR=12.86; FECFRAMEs=2016; FER=2.9e-02; TS Packets=50236; PER=0.0e+00
+log :info: Lock=True; SNR=12.59; FECFRAMEs=2240; FER=2.6e-02; TS Packets=55986; PER=0.0e+00
+log :info: Lock=True; SNR=12.20; FECFRAMEs=2464; FER=2.4e-02; TS Packets=61736; PER=0.0e+00
+log :info: Lock=True; SNR=12.27; FECFRAMEs=2688; FER=2.2e-02; TS Packets=67486; PER=0.0e+00
+log :info: Lock=True; SNR=12.13; FECFRAMEs=2912; FER=2.0e-02; TS Packets=73236; PER=0.0e+00
+log :info: Lock=True; SNR=12.30; FECFRAMEs=3136; FER=1.9e-02; TS Packets=78986; PER=0.0e+00
+log :info: Lock=True; SNR=12.37; FECFRAMEs=3360; FER=1.8e-02; TS Packets=84736; PER=0.0e+00
+log :info: Lock=True; SNR=12.45; FECFRAMEs=3584; FER=1.6e-02; TS Packets=90487; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=3808; FER=1.5e-02; TS Packets=96237; PER=0.0e+00
+log :info: Lock=True; SNR=12.50; FECFRAMEs=4032; FER=1.5e-02; TS Packets=101987; PER=0.0e+00
+log :info: Lock=True; SNR=12.30; FECFRAMEs=4256; FER=1.4e-02; TS Packets=107737; PER=0.0e+00
+log :info: Lock=True; SNR=12.18; FECFRAMEs=4480; FER=1.3e-02; TS Packets=113487; PER=0.0e+00
+log :info: Lock=True; SNR=12.10; FECFRAMEs=4704; FER=1.3e-02; TS Packets=119237; PER=0.0e+00
+log :info: Lock=True; SNR=12.21; FECFRAMEs=4928; FER=1.2e-02; TS Packets=124987; PER=0.0e+00
+log :info: Lock=True; SNR=12.61; FECFRAMEs=5152; FER=1.1e-02; TS Packets=130738; PER=0.0e+00
+log :info: Lock=True; SNR=12.48; FECFRAMEs=5376; FER=1.1e-02; TS Packets=136488; PER=0.0e+00
+log :info: Lock=True; SNR=12.53; FECFRAMEs=5600; FER=1.1e-02; TS Packets=142238; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=5824; FER=1.0e-02; TS Packets=147988; PER=0.0e+00
+log :info: Lock=True; SNR=12.36; FECFRAMEs=6080; FER=9.7e-03; TS Packets=154559; PER=0.0e+00
+log :info: Lock=True; SNR=12.41; FECFRAMEs=6304; FER=9.4e-03; TS Packets=160310; PER=0.0e+00
+log :info: Lock=True; SNR=12.42; FECFRAMEs=6528; FER=9.0e-03; TS Packets=166060; PER=0.0e+00
+log :info: Lock=True; SNR=12.41; FECFRAMEs=6752; FER=8.7e-03; TS Packets=171810; PER=0.0e+00
+log :info: Lock=True; SNR=12.47; FECFRAMEs=6976; FER=8.5e-03; TS Packets=177560; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=7200; FER=8.2e-03; TS Packets=183310; PER=0.0e+00
+log :info: Lock=True; SNR=12.80; FECFRAMEs=7424; FER=7.9e-03; TS Packets=189060; PER=0.0e+00
+log :info: Lock=True; SNR=12.39; FECFRAMEs=7648; FER=7.7e-03; TS Packets=194810; PER=0.0e+00
+log :info: Lock=True; SNR=12.51; FECFRAMEs=7872; FER=7.5e-03; TS Packets=200560; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=8096; FER=7.3e-03; TS Packets=206311; PER=0.0e+00
+log :info: Lock=True; SNR=12.48; FECFRAMEs=8320; FER=7.1e-03; TS Packets=212061; PER=0.0e+00
+log :info: Lock=True; SNR=12.75; FECFRAMEs=8544; FER=6.9e-03; TS Packets=217811; PER=0.0e+00
+log :info: Lock=True; SNR=12.62; FECFRAMEs=8768; FER=6.7e-03; TS Packets=223561; PER=0.0e+00
+log :info: Lock=True; SNR=12.71; FECFRAMEs=8992; FER=6.6e-03; TS Packets=229311; PER=0.0e+00
+log :info: Lock=True; SNR=12.40; FECFRAMEs=9216; FER=6.4e-03; TS Packets=235061; PER=0.0e+00
+log :info: Lock=True; SNR=12.66; FECFRAMEs=9440; FER=6.3e-03; TS Packets=240811; PER=0.0e+00
+log :info: Lock=True; SNR=12.54; FECFRAMEs=9664; FER=6.1e-03; TS Packets=246562; PER=0.0e+00
+log :info: Lock=True; SNR=12.48; FECFRAMEs=9888; FER=6.0e-03; TS Packets=252312; PER=0.0e+00
+log :info: Lock=True; SNR=12.46; FECFRAMEs=10112; FER=5.8e-03; TS Packets=258062; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=10336; FER=5.7e-03; TS Packets=263812; PER=0.0e+00
+log :info: Lock=True; SNR=12.62; FECFRAMEs=10560; FER=5.6e-03; TS Packets=269562; PER=0.0e+00
+log :info: Lock=True; SNR=12.60; FECFRAMEs=10816; FER=5.5e-03; TS Packets=276134; PER=0.0e+00
+log :info: Lock=True; SNR=12.55; FECFRAMEs=11040; FER=5.3e-03; TS Packets=281884; PER=0.0e+00
+log :info: Lock=True; SNR=12.82; FECFRAMEs=11264; FER=5.2e-03; TS Packets=287634; PER=0.0e+00
+log :info: Lock=True; SNR=12.74; FECFRAMEs=11488; FER=5.1e-03; TS Packets=293384; PER=0.0e+00
+log :info: Lock=True; SNR=12.64; FECFRAMEs=11712; FER=5.0e-03; TS Packets=299134; PER=0.0e+00
+usrp_source :error: In the last 55014 ms, 1 overflows occurred.
+log :info: Lock=True; SNR=12.48; FECFRAMEs=11936; FER=5.1e-03; TS Packets=304833; PER=0.0e+00
+log :info: Lock=True; SNR=12.73; FECFRAMEs=12160; FER=5.0e-03; TS Packets=310583; PER=0.0e+00
+log :info: Lock=True; SNR=12.54; FECFRAMEs=12384; FER=4.9e-03; TS Packets=316333; PER=0.0e+00
+log :info: Lock=True; SNR=12.42; FECFRAMEs=12608; FER=4.8e-03; TS Packets=322083; PER=0.0e+00
+log :info: Lock=True; SNR=12.38; FECFRAMEs=12832; FER=4.8e-03; TS Packets=327833; PER=0.0e+00
+log :info: Lock=True; SNR=12.30; FECFRAMEs=13056; FER=4.7e-03; TS Packets=333583; PER=0.0e+00
+log :info: Lock=True; SNR=12.36; FECFRAMEs=13280; FER=4.6e-03; TS Packets=339333; PER=0.0e+00
+log :info: Lock=True; SNR=12.44; FECFRAMEs=13504; FER=4.5e-03; TS Packets=345083; PER=0.0e+00
+log :info: Lock=True; SNR=12.32; FECFRAMEs=13728; FER=4.4e-03; TS Packets=350834; PER=0.0e+00
+log :info: Stopping DVB-S2 Rx
