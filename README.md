@@ -6,4 +6,4 @@ This repo will contain all the gnuradio implementations for conducted experiment
 
   The script is designed to take a input of a format similar to that of example_data.txt and turns it into a .csv file of 3 columns: gain, SNR, FER.
   
-  _Use case_: Enter the following command: **python3 ~/FILEPATH/extract_data.py ~/FILEPATH/_.txtData_ ~/CSVOutputFilePath/CSVNameOutput**
+  _Use case_: Enter the following command: **python3 ~/FILEPATH/extract_data.py ~/FILEPATH/_txtNameInput_ ~/CSVOutputFilePath/csvNameOutput**
