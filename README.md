@@ -4,4 +4,4 @@ This repo will contain all the gnuradio implementations for conducted experiment
 
 **EXTRACT_DATA.py IS NO LONGER WORKING AS IS EXAMPLE_DATA.txt**
 
-Use case for extract_snr_fer: To obtain **ALL** data for the .txt, move the script to same folder as .txt output. --> Use command " python3 extract_snr_fer.py FILENAME.txt OUTPUTNAME.csv "
+Use case for extract_snr_fer: To obtain **ALL** data (not just the for the SNR and FER, but PER, etc.) for the .txt, move the script to same folder as .txt output. --> Use command " python3 extract_snr_fer.py FILENAME.txt OUTPUTNAME.csv "
