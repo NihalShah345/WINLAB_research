@@ -3,3 +3,5 @@ Machine Learning and COSMOS testbed for 5G and Satellite network coexistence in 
 This repo will contain all the gnuradio implementations for conducted experiments.
 
 **EXTRACT_DATA.py IS NO LONGER WORKING**
+
+Use case for extract_snr_fer: To obtain **ALL** data for the .txt, move the script to same folder as .txt output. --> Use command " python3 extract_snr_fer.py FILENAME.txt OUTPUTNAME.csv "
